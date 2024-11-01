@@ -1,0 +1,17 @@
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\bin\Debug\net8.0-windows\UserLogin.exe
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\bin\Debug\net8.0-windows\UserLogin.deps.json
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\bin\Debug\net8.0-windows\UserLogin.runtimeconfig.json
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\bin\Debug\net8.0-windows\UserLogin.dll
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\bin\Debug\net8.0-windows\UserLogin.pdb
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.EnterScreen.resources
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.MainScreen.resources
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.csproj.GenerateResource.cache
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.AssemblyInfoInputs.cache
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.AssemblyInfo.cs
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.dll
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\refint\UserLogin.dll
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.pdb
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\UserLogin.genruntimeconfig.cache
+C:\Users\Sascha\source\repos\UserLogin\UserLogin\obj\Debug\net8.0-windows\ref\UserLogin.dll
